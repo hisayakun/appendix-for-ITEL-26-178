@@ -1,8 +1,8 @@
-Read the following statements and consider an information system based on the dialogue between Emi and Shinji. 
-Then, create a quiz to ask learners about their knowledge of programming (in particular, control struc-tures) to realize that system. You may refer to the image attached below the description. (Images are omitted)
+Read the following statements and consider an information system based on the dialogue between Emi and Kenji. 
+Then, create a quiz to ask learners about their knowledge of programming (in particular, control structures) to realize that system. You may refer to the image attached below the description. (Images are omitted)
 
 ---
-Dentsu High School holds a school festival every year, which is characterized by each class opening a unique booth. This year, Emi's class planned to sell candy fruits. As preparations for the school festival were underway, Emi and Kenji came up with the idea of utilizing programming to run the booth and were en-thusiastically discussing its functions.
+Dentsu High School holds a school festival every year, which is characterized by each class opening a unique booth. This year, Emi's class planned to sell candy fruits. As preparations for the school festival were underway, Emi and Kenji came up with the idea of utilizing programming to run the booth and were enthusiastically discussing its functions.
 
 Emi: “We are going to have a bake sale at the school festival, and this year we are going to have a fruit candy shop. It would be nice if we could somehow keep track of the ingredients and the number of candies we can sell at any given time for each.”
 
